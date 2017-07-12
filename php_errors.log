@@ -1,0 +1,21 @@
+[12-Jul-2017 04:59:54 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 444
+[12-Jul-2017 04:59:54 UTC] PHP Stack trace:
+[12-Jul-2017 04:59:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[12-Jul-2017 04:59:54 UTC] PHP   2. require() /home/ubuntu/workspace/public/index.php:22
+[12-Jul-2017 04:59:54 UTC] PHP   3. require() /home/ubuntu/workspace/bootstrap/autoload.php:17
+[12-Jul-2017 04:59:54 UTC] PHP   4. ComposerAutoloaderInitba6608e784b6d29e06b9409afd18b933::getLoader() /home/ubuntu/workspace/vendor/autoload.php:7
+[12-Jul-2017 04:59:54 UTC] PHP   5. composerRequireba6608e784b6d29e06b9409afd18b933() /home/ubuntu/workspace/vendor/composer/autoload_real.php:56
+[12-Jul-2017 05:00:27 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 444
+[12-Jul-2017 05:00:27 UTC] PHP Stack trace:
+[12-Jul-2017 05:00:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[12-Jul-2017 05:00:27 UTC] PHP   2. require() /home/ubuntu/workspace/public/index.php:22
+[12-Jul-2017 05:00:27 UTC] PHP   3. require() /home/ubuntu/workspace/bootstrap/autoload.php:17
+[12-Jul-2017 05:00:27 UTC] PHP   4. ComposerAutoloaderInitba6608e784b6d29e06b9409afd18b933::getLoader() /home/ubuntu/workspace/vendor/autoload.php:7
+[12-Jul-2017 05:00:27 UTC] PHP   5. composerRequireba6608e784b6d29e06b9409afd18b933() /home/ubuntu/workspace/vendor/composer/autoload_real.php:56
+[12-Jul-2017 05:00:43 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 444
+[12-Jul-2017 05:00:43 UTC] PHP Stack trace:
+[12-Jul-2017 05:00:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/public/index.php:0
+[12-Jul-2017 05:00:43 UTC] PHP   2. require() /home/ubuntu/workspace/public/index.php:22
+[12-Jul-2017 05:00:43 UTC] PHP   3. require() /home/ubuntu/workspace/bootstrap/autoload.php:17
+[12-Jul-2017 05:00:43 UTC] PHP   4. ComposerAutoloaderInitba6608e784b6d29e06b9409afd18b933::getLoader() /home/ubuntu/workspace/vendor/autoload.php:7
+[12-Jul-2017 05:00:43 UTC] PHP   5. composerRequireba6608e784b6d29e06b9409afd18b933() /home/ubuntu/workspace/vendor/composer/autoload_real.php:56
